@@ -186,10 +186,3 @@ sudo nmap -sU -p 161 10.13.20.16
 * Always obtain explicit, written authorization before performing any penetration testing or active scanning on networks or devices you do not own.
 * This README preserves the original commands and sequence used during the exercise for repeatability and documentation.
 
----
-
-If you'd like, I can:
-
-* produce a downloadable `README.md` file, or
-* generate a formatted GitHub release note or `CHANGELOG.md` from this content, or
-* convert this into a Markdown file and place it into a Git-friendly folder structure (one-shot copy).
