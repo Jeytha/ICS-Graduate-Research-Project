@@ -2,7 +2,7 @@
 
 This repository details the steps and commands used in a cyber range exercise focusing on the penetration testing of a MikroTik RouterOS device in an Industrial Control Systems (ICS) environment. The primary goal was to perform reconnaissance, exploit a vulnerability, and verify remediation (OpSec Verification).
 
-#Role	#IP #Address	#Notes
+##Role	##IP ##Address	##Notes
 #Attacker Machine	10.13.20.91	
 #Source IP for launching the exploit.
 #Target Router (MikroTik)	10.13.20.16	
